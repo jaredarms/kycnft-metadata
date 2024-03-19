@@ -1,0 +1,42 @@
+{
+  "name": "Kylar NFT #1",
+  "description": "This unique NFT is part of the exclusive Kylar.io Coin series, embodying the essence of the Kylar.io Coin ecosystem with its distinctive characteristics and artistic design.",
+  "image": "https://i.seadn.io/s/raw/files/a357e47d262c1e5a5690b12e2b1f8347.jpg",
+  "external_url": "https://opensea.io/assets/matic/0x6259035f370d83ac4bb766b8b9146fbb2f6f31f1/8",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Starry Night"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Shades"
+    },
+    {
+      "trait_type": "Mystic Aura",
+      "value": "Mars Day"
+    },
+    {
+      "trait_type": "Element",
+      "value": "Cosmic Dust"
+    },
+    {
+      "trait_type": "Special Power",
+      "value": "Time Warp"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Ultra Rare"
+    },
+    {
+      "trait_type": "Series",
+      "value": "Shibalon Collection"
+    },
+    {
+      "trait_type": "Special Edition",
+      "value": "Founder's Edition"
+    }
+  ],
+
+  "license": "Copyright © 2024 Kylar.io. All rights reserved."
+}
